@@ -8,7 +8,4 @@ This is a machine learning web app built using Streamlit that predicts the likel
 - Built with Streamlit
 - Simple and interactive UI
 
-## 🧪 How to Run Locally
-
-1. Clone the repo:
 
